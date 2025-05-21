@@ -1,0 +1,208 @@
+
+***************************************************************************************************************************************
+*********************************Frontend Billing soft Web Appllication Design Uesing Tech Stack Links ***************************************************************************************************************************************
+
+https://react.dev/learn
+https://react.dev/learn/writing-markup-with-jsx
+https://react.dev/reference/react-dom/components
+https://react.dev/learn/tutorial-tic-tac-toe
+https://react.dev/learn/state-and-refs
+https://react.dev/learn/rendering-logic
+https://react.dev/learn/components-and-props
+https://react.dev/learn/extracting-state
+https://react.dev/learn/synchronizing-with-effects
+https://react.dev/learn/interactivity-with-the-dom
+https://react.dev/learn/passing-props-to-a-component
+
+https://vite.dev/releases
+https://vitejs.dev/guide/
+
+https://v5.vite.dev/guide/
+https://vitejs.dev/guide/features.html#css
+
+https://tailwindcss.com/
+https://tailwindcss.com/docs/installation/using-Vite
+
+
+ *************************Step 1********************
+
+PS C:\Users\lenovo\Documents\Project\NMMapp> npm create vite@latest 
+Need to install the following packages:
+create-vite@6.5.0
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  frontend
+│
+◆  Select a framework:
+│  ○ Vanilla
+│  ○ Vue
+│  ● React   framework  Select
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+
+*************************Step 2 ********************
+
+PS C:\Users\lenovo\Documents\Project\NMMapp> npm create vite@latest 
+Need to install the following packages:
+create-vite@6.5.0
+Ok to proceed? (y) Y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  frontend
+│
+◇  Select a framework:
+│  React
+│
+◆  Select a variant:
+│  ● TypeScript
+│  ○ TypeScript + SWC
+│  ○ JavaScript
+│  ○ JavaScript + SWC
+│  ○ React Router v7 ↗
+│  ○ TanStack Router ↗
+│  ○ RedwoodSDK ↗
+
+
+************************* Step 3 ********************
+
+PS C:\Users\lenovo\Documents\Project\NMMapp> npm create vite@latest 
+Need to install the following packages:
+create-vite@6.5.0
+Ok to proceed? (y) Y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  frontend
+│
+◇  Select a framework:
+│  React
+│
+◆  Select a variant:
+│  ○ TypeScript
+│  ○ TypeScript + SWC
+│  ○ JavaScript
+│  ● JavaScript + SWC     variant Select 
+│  ○ React Router v7 ↗
+│  ○ TanStack Router ↗
+│  ○ RedwoodSDK ↗
+└
+
+************************* Step 3 ********************
+
+PS C:\Users\lenovo\Documents\Project\NMMapp> npm create vite@latest 
+Need to install the following packages:
+create-vite@6.5.0
+Ok to proceed? (y) Y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  frontend
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  JavaScript + SWC
+│
+◇  Scaffolding project in C:\Users\lenovo\Documents\Project\NMMApp\frontend...
+│
+└  Done. Now run:
+
+  cd frontend
+  npm install
+  npm run dev
+
+PS C:\Users\lenovo\Documents\Project\NMMapp> 
+ 
+
+************************* Step 4 ********************
+
+PS C:\Users\lenovo\Documents\Project\NMMapp> cd frontend
+PS C:\Users\lenovo\Documents\Project\NMMapp\frontend> npm install           
+
+added 238 packages, and audited 239 packages in 18s
+
+45 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+PS C:\Users\lenovo\Documents\Project\NMMapp\frontend>  npm install -D @vitejs/plugin-react-swc
+
+up to date, audited 239 packages in 2s
+
+45 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+
+************************* Step 5 ********************
+
+PS C:\Users\lenovo\Documents\Project\NMMapp\frontend> npm run dev                                
+
+> frontend@0.0.0 dev
+> vite
+
+
+  VITE v6.3.5  ready in 1763 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+
+************************* Step 6 ********************
+
+Frontend Billing soft Web Appllication Design Uesing Tech Stack Links
+
+https://react.dev/learn
+https://react.dev/learn/writing-markup-with-jsx
+https://react.dev/reference/react-dom/components
+https://react.dev/learn/tutorial-tic-tac-toe
+https://react.dev/learn/state-and-refs
+https://react.dev/learn/rendering-logic
+https://react.dev/learn/components-and-props
+https://react.dev/learn/extracting-state
+https://react.dev/learn/synchronizing-with-effects
+https://react.dev/learn/interactivity-with-the-dom
+https://react.dev/learn/passing-props-to-a-component
+
+https://codeparrot.ai/blogs/advanced-guide-to-using-vite-with-react-in-2025
+
+https://vite.dev/releases
+https://vitejs.dev/guide/
+
+https://v5.vite.dev/guide/
+https://vitejs.dev/guide/features.html#css
+
+https://tailwindcss.com/
+https://tailwindcss.com/docs/installation/using-Vite
+

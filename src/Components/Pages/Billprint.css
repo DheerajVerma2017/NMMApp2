@@ -1,0 +1,146 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #1a75ff;
+    padding: 10px 0;
+}
+
+.taxes {
+    display: flex;
+    justify-content: space-between;
+    flex: 0.15;
+}
+
+.nav-container a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.nav-container a:hover {
+    text-decoration: underline;
+}
+
+.billContainer {
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: -1px 0px 20px rgba(0, 0, 0, 0.466);
+}
+
+.line {
+    display: flex;
+    align-items: center;
+}
+
+.line>a {
+    font-size: 22px;
+    text-decoration: none;
+    color: #1a75ff;
+    font-weight: bold;
+}
+
+.line>a:hover {
+    text-decoration: underline;
+}
+
+.line>hr {
+    width: 97%;
+    border: 1px solid black;
+}
+
+.buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.billButtonExcel {
+    padding: 8px 10px;
+    font-size: 22px;
+    margin: 0 8px;
+    border: none;
+    background-color: #4ae52b;
+    color: #ffffff;
+    cursor: pointer;
+}
+.billButton {
+    padding: 8px 10px;
+    font-size: 22px;
+    margin: 0 8px;
+    border: none;
+    background-color: #1abaff;
+    color: #ffffff;
+    cursor: pointer;
+}
+.billButtonPrint{
+    padding: 8px 10px;
+    font-size: 22px;
+    margin: 0 8px;
+    border: none;
+    background-color: #1a75ff;
+    color: #ffffff;
+    cursor: pointer;
+}
+.billButtonEdit {
+    padding: 8px 10px;
+    font-size: 22px;
+    margin: 0 8px;
+    border: none;
+    background-color: #ff7d1a;
+    color: #ffffff;
+    cursor: pointer;
+}
+.billButtonEdit:hover {
+    background-color: #da4011;
+}
+
+.billText {
+    width: 40%;
+    height: auto;
+    margin: 50px auto;
+    /* border: 1px solid black; */
+}
+.billText p {
+    font-size: 22px;
+}
+
+.companyAddressContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* max-height: 350px; */
+}
+#nLetter {
+    font-size: 150px;
+    opacity: 0.5;
+    font-family:  'Gill Sans MT', 'Calibri', 'Trebuchet MS',;
+}
+.companyAddress {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    line-height: 1.4;
+}
+.companyName {
+    font-size: 30px;
+    font-weight: bold;
+}
+.bill-summary{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 0 0 15px 10px;
+}
+.barcode {
+    text-align: center;
+}
+#barcode {
+    width: 180px;
+    height: auto;
+}

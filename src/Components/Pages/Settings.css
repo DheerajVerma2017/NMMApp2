@@ -1,0 +1,68 @@
+/* Settings.css */
+
+.settings-container {
+  background-color: white;
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.settings-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.settings-grid {
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.setting-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 8px 16px;
+}
+
+.setting-label {
+  font-weight: 500;
+  font-size: 0.875rem;
+}
+
+.setting-select,
+.setting-input {
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 0.875rem;
+}
+
+.setting-input {
+  width: 100%;
+}
+
+.settings-buttons {
+  margin-top: 16px;
+}
+
+.settings-button {
+  margin-right: 8px;
+  margin-bottom: 8px;
+  padding: 8px 16px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.settings-button a {
+  color: white;
+  text-decoration: none;
+}
+
+.settings-button:hover {
+  background-color: #2563eb;
+}
