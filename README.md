@@ -22,5 +22,5 @@ Run this inside the project folder (where package.json is):
 ✅ 4. Run the Development Server
   - npm run dev
   (Vite will start the dev server and give you a URL like:)
- Local:   http://localhost:5173/
- Open it in your browser to see your app.
+ - Local:   http://localhost:5173/
+ (Open it in your browser to see your app.)
