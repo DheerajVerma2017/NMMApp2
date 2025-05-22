@@ -1,6 +1,6 @@
 # Billing Soft
 
-1. Prerequisites (Install Once)
+✅ 1. Prerequisites (Install Once)
 Make sure the new system has:
 - Node.js (v16 or later recommended)
 - npm (comes with Node)
