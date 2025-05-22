@@ -1,12 +1,26 @@
-# React + Vite
+# Billing Soft
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Prerequisites (Install Once)
+Make sure the new system has:
+- Node.js (v16 or later recommended)
+- npm (comes with Node)
 
-Currently, two official plugins are available:
+Check with:
+   node -v
+   npm -v
+If not installed: Download https://nodejs.org/en
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ 2. Clone the Project:
+  git clone https://github.com/DheerajVerma2017/NMMApp2
+  cd NMMApp2
 
-## Expanding the ESLint configuration
+✅ 3. Install Project Dependencies
+Run this inside the project folder (where package.json is):
+  npm install
+This installs all dependencies defined in package.json.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ 4. Run the Development Server
+  npm run dev
+Vite will start the dev server and give you a URL like:
+Local:   http://localhost:5173/
+Open it in your browser to see your app.
